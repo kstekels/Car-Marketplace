@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T10:03:14.517Z" agent="5.0 (Macintosh)" etag="tGZ663JpXZEDxVe-NOGZ" version="16.0.0" type="github" pages="2">
-  <diagram id="wORJl10oYcxYU299xKBq" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2021-12-28T10:06:58.073Z" agent="5.0 (Macintosh)" etag="fiQrLu_ucmczRWtlpePf" version="16.0.0" type="github" pages="2">
+  <diagram id="wORJl10oYcxYU299xKBq" name="ER logical">
     <mxGraphModel dx="1678" dy="902" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -739,7 +739,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="NmCUSfuKaw8QeE9zQHva" name="Page-2">
+  <diagram id="NmCUSfuKaw8QeE9zQHva" name="normalization">
     <mxGraphModel dx="1426" dy="767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YnyuLjsiO2mX0Ld_jMiK-0" />
@@ -1110,10 +1110,10 @@
         <mxCell id="9_7EqAM9fQo5Bxr5AES0-67" value="Condition" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="YnyuLjsiO2mX0Ld_jMiK-1">
           <mxGeometry x="717" y="347" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9_7EqAM9fQo5Bxr5AES0-68" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.354;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="YnyuLjsiO2mX0Ld_jMiK-1" target="9_7EqAM9fQo5Bxr5AES0-66">
+        <mxCell id="9_7EqAM9fQo5Bxr5AES0-68" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="YnyuLjsiO2mX0Ld_jMiK-1" source="9_7EqAM9fQo5Bxr5AES0-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="582" y="377" as="sourcePoint" />
-            <mxPoint x="642" y="377" as="targetPoint" />
+            <mxPoint x="663" y="377" as="targetPoint" />
             <Array as="points">
               <mxPoint x="612" y="397" />
             </Array>
