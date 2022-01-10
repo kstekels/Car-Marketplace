@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T17:24:58.935Z" agent="5.0 (Macintosh)" etag="oXIeFBZjjptfD1k8eZdY" version="16.2.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-10T17:25:18.947Z" agent="5.0 (Macintosh)" etag="pADFYdWeTSsscU6tAdnd" version="16.2.4" type="github" pages="5">
   <diagram id="wORJl10oYcxYU299xKBq" name="ER logical">
     <mxGraphModel dx="1426" dy="767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -4619,7 +4619,7 @@
             <mxPoint x="290" y="782.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VSYDJI9RSjJEFJh8igMC-2" value="Table is in 3NF, because attributes are dependent on Primary key, but not dependent on each other." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZqH0oRWrDVRy9105TYh9-1">
+        <mxCell id="VSYDJI9RSjJEFJh8igMC-2" value="All Tables is in 3NF, because attributes are dependent on Primary key, but not dependent on each other." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZqH0oRWrDVRy9105TYh9-1">
           <mxGeometry x="80" y="1070" width="670" height="60" as="geometry" />
         </mxCell>
       </root>
